@@ -1,4 +1,4 @@
-let seconds = 100;
+let seconds = 10;
 const count = document.getElementById("count");
 const target = "https://telegram.me/%2Bo_lJCT4UdxJhYjU1";
 
