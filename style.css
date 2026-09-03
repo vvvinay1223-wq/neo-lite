@@ -41,20 +41,3 @@ h1{margin:4px 0 4px;font-size:34px}
 .join:hover{transform:translateY(-2px);filter:brightness(1.08)}
 .redirect{margin:16px 0 12px;color:#9fb0c3;font-size:13px}
 .disclaimer{margin:0;color:#74859a;font-size:11px;line-height:1.55}
-@media(max-width:420px){.card{padding:28px 16px 20px}h1{font-size:30px}.logo{width:82px;height:82px}}
-.logo {
-  width: 80px;
-  height: 80px;
-  overflow: hidden;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.logo img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
